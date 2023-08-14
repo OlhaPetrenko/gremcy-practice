@@ -1,0 +1,14 @@
+body {
+  font-family: "Roboto-condensed";
+  background-color: $back;
+  color: $text;
+  font-size: 30px;
+  user-select: none;
+}
+
+.image {
+  width: 800px;
+  height: 500px;
+  background-size: cover;
+  background-image: url("img/info10.jpg");
+}

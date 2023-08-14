@@ -1,0 +1,40 @@
+/*!**********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./src/components/hello/hello.module.scss ***!
+  \**********************************************************************************************************************/
+.src-components-hello-title__d4b1174 {
+  font-size: 40px;
+  font-weight: 600;
+  color: red;
+  margin-bottom: 0;
+}
+
+.src-components-hello-text__e167985 {
+  font-size: 20px;
+  font-weight: 600;
+  color: blue;
+  margin-top: 0;
+}
+
+/*!*********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
+  \*********************************************************************************************************/
+@font-face {
+  font-family: "Roboto-condensed";
+  src: url(fonts/roboto-condensed-medium.eot) format("embedded-opentype"), url(fonts/roboto-condensed-medium.ttf) format("truetype"), url(fonts/roboto-condensed-medium.woff) format("woff"), url(fonts/roboto-condensed-medium.woff2) format("woff2");
+}
+body {
+  font-family: "Roboto-condensed";
+  background-color: beige;
+  color: black;
+  font-size: 30px;
+  user-select: none;
+}
+
+.image {
+  width: 800px;
+  height: 500px;
+  background-size: cover;
+  background-image: url(assets/info10.jpg);
+}
+
+/*# sourceMappingURL=main.105ac09be2d862db1a89.css.map*/
